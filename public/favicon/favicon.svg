@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="48" height="48"><svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1202_5517)">
+<rect width="48" height="48" rx="12" fill="#FF4405"></rect>
+<rect width="48" height="48" fill="url(#paint0_linear_1202_5517)"></rect>
+<g filter="url(#filter0_d_1202_5517)">
+<path d="M14.8859 28.95L20.8018 25.65L20.8919 25.35L20.8018 25.2H20.5015L19.5105 25.14L16.1471 25.05L13.2042 24.9L10.3514 24.75L9.63063 24.6L9 23.7L9.06006 23.25L9.66066 22.86L10.5315 22.92L12.4234 23.07L15.2763 23.25L17.3483 23.37L20.4114 23.73H20.8919L20.952 23.52L20.8018 23.4L20.6817 23.28L17.7087 21.3L14.5255 19.2L12.8438 17.97L11.9429 17.37L11.4925 16.77L11.3123 15.51L12.1231 14.61L13.2342 14.7L13.5045 14.76L14.6156 15.63L17.018 17.46L20.1111 19.8L20.5616 20.16L20.7417 20.04L20.7718 19.95L20.5616 19.62L18.9099 16.5L17.1081 13.38L16.2973 12.09L16.0871 11.31C15.997 11.01 15.967 10.71 15.967 10.41L16.8679 9.15L17.4084 9L18.6697 9.18L19.1501 9.6L19.9309 11.4L21.1622 14.19L23.1141 17.97L23.7147 19.11L24.015 20.13L24.1051 20.43H24.3153V20.28L24.4655 18.12L24.7658 15.51L25.0661 12.15L25.1562 11.19L25.6366 10.05L26.5375 9.45L27.3183 9.78L27.9189 10.65L27.8288 11.19L27.4985 13.5L26.7177 17.13L26.2673 19.59H26.5375L26.8378 19.26L28.0691 17.64L30.1411 15.06L31.042 14.01L32.1231 12.9L32.8138 12.36H34.1051L35.036 13.77L34.6156 15.24L33.2943 16.92L32.1832 18.33L30.5916 20.46L29.6306 22.17L29.7207 22.29H29.9309L33.5345 21.51L35.4565 21.18L37.7387 20.79L38.7898 21.27L38.9099 21.75L38.4895 22.77L36.027 23.37L33.1441 23.97L28.8498 24.96L28.7898 24.99L28.8498 25.08L30.7718 25.26L31.6126 25.32H33.6547L37.4384 25.62L38.4294 26.22L39 27.03L38.9099 27.63L37.3784 28.41L35.3363 27.93L30.5315 26.79L28.9099 26.4H28.6697V26.52L30.0511 27.87L32.5435 30.12L35.7267 33.03L35.8769 33.75L35.4865 34.35L35.0661 34.29L32.3033 32.19L31.2222 31.29L28.8198 29.25H28.6697V29.46L29.2102 30.27L32.1532 34.68L32.3033 36.03L32.0931 36.45L31.3123 36.75L30.5015 36.57L28.7598 34.17L26.958 31.47L25.5465 29.01L25.3964 29.13L24.5255 38.19L24.1351 38.64L23.2342 39L22.4835 38.4L22.0631 37.5L22.4835 35.64L22.964 33.24L23.3544 31.32L23.7147 28.95L23.9249 28.17V28.11H23.7147L21.9129 30.6L19.2102 34.29L17.048 36.57L16.5375 36.78L15.6366 36.33L15.7267 35.49L16.2072 34.8L19.2102 30.96L21.012 28.59L22.2132 27.21L22.1832 27.06H22.0931L14.1652 32.22L12.7538 32.4L12.1532 31.8L12.2132 30.9L12.5135 30.6L14.9159 28.95H14.8859Z" fill="white"></path>
+</g>
+</g>
+<rect x="1" y="1" width="46" height="46" rx="11" stroke="url(#paint1_linear_1202_5517)" stroke-width="2"></rect>
+<defs>
+<filter id="SvgjsFilter1007" x="6" y="5.25" width="36" height="42" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></feColorMatrix>
+<feMorphology radius="1.5" operator="erode" in="SourceAlpha" result="effect1_dropShadow_1202_5517"></feMorphology>
+<feOffset dy="2.25"></feOffset>
+<feGaussianBlur stdDeviation="2.25"></feGaussianBlur>
+<feComposite in2="hardAlpha" operator="out"></feComposite>
+<feColorMatrix type="matrix" values="0 0 0 0 0.141176 0 0 0 0 0.141176 0 0 0 0 0.141176 0 0 0 0.1 0"></feColorMatrix>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1202_5517"></feBlend>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1202_5517" result="shape"></feBlend>
+</filter>
+<linearGradient id="SvgjsLinearGradient1006" x1="24" y1="5.96047e-07" x2="26" y2="48" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0"></stop>
+<stop offset="1" stop-color="white" stop-opacity="0.12"></stop>
+</linearGradient>
+<linearGradient id="SvgjsLinearGradient1005" x1="24" y1="0" x2="24" y2="48" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.12"></stop>
+<stop offset="1" stop-color="white" stop-opacity="0"></stop>
+</linearGradient>
+<clipPath id="SvgjsClipPath1004">
+<rect width="48" height="48" rx="12" fill="white"></rect>
+</clipPath>
+</defs>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
